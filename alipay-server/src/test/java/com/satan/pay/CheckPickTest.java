@@ -13,4 +13,8 @@ public class CheckPickTest {
     public void image() {
         System.out.println("创建了image服务");
     }
+
+    public void video() {
+        System.out.println("创建了video服务");
+    }
 }
