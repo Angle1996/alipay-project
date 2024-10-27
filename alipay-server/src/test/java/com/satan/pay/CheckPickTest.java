@@ -9,4 +9,7 @@ public class CheckPickTest {
     public void role() {
         System.out.println("创建了role服务");
     }
+    public void icon() {
+        System.out.println("创建了icon服务");
+    }
 }
