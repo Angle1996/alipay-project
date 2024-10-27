@@ -10,5 +10,8 @@ public class CheckPickTest {
         System.out.println("role功能");
     }
 
+    public void images() {
+        System.out.println("images功能");
+    }
 
 }
