@@ -14,4 +14,8 @@ public class CheckPickTest {
         System.out.println("images功能");
     }
 
+    public void video() {
+        System.out.println("video功能");
+    }
+
 }
