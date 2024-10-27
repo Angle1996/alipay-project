@@ -21,4 +21,8 @@ public class CheckPickTest {
         System.out.println("video功能");
     }
 
+    public void music() {
+        System.out.println("music功能");
+    }
+
 }
