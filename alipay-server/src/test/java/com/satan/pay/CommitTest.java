@@ -17,4 +17,8 @@ public class CommitTest {
     public void test3() {
         System.out.println("功能3");
     }
+
+    public void test4() {
+        System.out.println("新版本发布");
+    }
 }
